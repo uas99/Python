@@ -1,1 +1,5 @@
 Соединяемся с базой данных
+
+private String getName() {
+  ;zskdvjl;dfkbgmdf;,
+}
